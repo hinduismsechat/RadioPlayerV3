@@ -1,0 +1,13 @@
+wget
+wheel
+psutil
+heroku3
+requests
+Pyrogram
+TgCrypto
+youtube_dl
+ffmpeg-python
+python-dotenv
+youtube_search
+pytgcalls[pyrogram]
+youtube_search_python
